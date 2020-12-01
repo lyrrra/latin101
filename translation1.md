@@ -1,6 +1,5 @@
-**Needs revisions**
+**Satisfactory: full credit**
 
-**In translating into English, we normally use the *nominative cse8 for names. For example, *Mors* or *Letus*, not *Mortis* or *Leti*.**
 
 # translation1
 
@@ -34,8 +33,8 @@ Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum.
 
 8 was
 
-Chaos was the first of the gods. His daughters were Nox and Terra. (**I.e., "Night and Earth"**), the mother of all humans. 
+Chaos was the first of the gods. His daughters were Nox and Terra, the mother of all humans. 
 She was the mother of Mortis and Lētī. 
-Lētī's sons were horrible monsters: Typhon, Python, and Cyclōpēs.
-Typhon and Python were huge dragons and Cyclōpēs were foolish stoneworkers. 
+Lētī's sons were horrible monsters: Typhon, Python, and the Cyclōpēs.
+Typhon and Python were huge dragons and the Cyclōpēs were foolish stoneworkers. 
 Their brother Uranus, was himself the first king of the gods. He was strong and huge, but wise.
