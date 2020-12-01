@@ -6,10 +6,17 @@
 
 *Chaos* prīmus deōrum **erat**.
 
-*Fīliae* **eius**, Nox et *Terra*, māter omnium hominum, **erant**.
-(**Can you identify the form of *eius*?  (Look at your answer toq question 1 below!)**)
+*Fīliae* eius, Nox et Terra, māter omnium hominum, **erant**.
 
-*Haec* māter Mortis et Lētī **erat**. Illīus *fīliī* horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs. *Typhon et Python* dracōnēs ingentēs **erant** et *Cyclōpēs* fabrī brūtī. Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum. *Hic* fortis et magnus **erat**, sed sapiēns.
+*Haec* māter Mortis et Lētī **erat**. 
+
+Illīus *fīliī* horribilia mōnstra **erant**: Typhon, Python, et Cyclōpēs. 
+
+*Typhon et Python* dracōnēs ingentēs **erant** et *Cyclōpēs* fabrī brūtī. 
+
+Sed frāter eōrum Ūranus, prīmus ipse rēx deōrum. 
+
+*Hic* fortis et magnus **erat**, sed sapiēns.
 
 1 genitive, Chaos
 
@@ -27,6 +34,8 @@
 
 8 was
 
-Chaos was the first god. His daughters were Nox and Terra. (**I.e., "Night and Earth"**)  Terra was the mother of all humans. She was the mother of Mortis and Lētī. Lētī's sons were horrible monsters: Typhon, Python, and Cyclōpēs.
-Typhon and Python were huge dragons and Cyclōpēs was a heavy bream.  (**What number is *fabri bruti* and who does it describe?**)
- Their brother Uranus, was himself the first king of the gods. He was strong and huge, but wise.
+Chaos was the first of the gods. His daughters were Nox and Terra. (**I.e., "Night and Earth"**), the mother of all humans. 
+She was the mother of Mortis and Lētī. 
+Lētī's sons were horrible monsters: Typhon, Python, and Cyclōpēs.
+Typhon and Python were huge dragons and Cyclōpēs were foolish stoneworkers. 
+Their brother Uranus, was himself the first king of the gods. He was strong and huge, but wise.
