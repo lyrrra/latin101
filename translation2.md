@@ -1,3 +1,4 @@
+**Satisfactory: full credit**
 
 # translation2
 
