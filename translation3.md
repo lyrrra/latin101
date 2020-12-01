@@ -1,4 +1,4 @@
-**Needs revisions**
+**Satisfactory: full credit**
 
 # translation3
 
@@ -19,7 +19,7 @@ gerundive
 
 3. What idea does Athenas oppugnandās express?
 
-to attack Athens (**Yes: in a word, *purpose*.**)
+to attack Athens
 
 4. Parse (PNTMV) interfectus est.
 
@@ -27,7 +27,7 @@ to attack Athens (**Yes: in a word, *purpose*.**)
 
 5. What kind of construction is immolanda est?
 
-gerundive
+gerundive + "to be" + to express necessity
 
 6. Parse (GCN) ceterae sorōrēs.
 
@@ -37,4 +37,4 @@ feminine nominative plural
 
 ablative of agent
 
-Erechtheus, the son of Pandīon, had four daughters. At that time, Eumolpus, the son of Neptūnus, came to attack Athens, but he was defeated. Neptūnus, angry because his son was killed by Erechtheus, said, "Erechtheus's daughter must be scarificed."  Therefore Chthonia, one of the daugters, was sacrificed. The other sisters killed themselves. Erechtheus himself was struck by a lightning bolt.
+Erechtheus, the son of Pandīon, had four daughters. At that time, Eumolpus, the son of Neptūnus, came to attack Athens, but he was defeated. Neptūnus, angry because his son was killed by Erechtheus, said, "Erechtheus's daughter must be sacrificed."  Therefore Chthonia, one of the daugters, was sacrificed. The other sisters killed themselves. Erechtheus himself was struck by a lightning bolt.
