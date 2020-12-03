@@ -30,6 +30,6 @@
 
 4b. subjunctive
 
-4c. imperfect **Review the form of *uenisset*, and your answer to 4d.  How could it refer to *earlier* time if the verb is imperfect subjunctive?  That indicates contemporary time.**
+4c. pluperfect
 
 4d. earlier
