@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 # deliberative
 
 1a. necet
