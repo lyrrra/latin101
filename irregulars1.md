@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 # irregulars1
 
 1. tulit 3rd person singular perfect indicative active
