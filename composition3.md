@@ -7,7 +7,7 @@ Venus cum Marte clam concubuit. **Consider using imperfect?**
 Vulcānus ea volurit indicandus. **Review how to express necessity using the gerundive**
 
 
-Vulcānus adamantis catenam fecerit et eam circum lectum posuerit. Venus et Mars eam nōn viderint. Ea nōn potuerint fugisse ē lecto. **Check the mood of these verb forms!**
+Vulcānus adamantis catenam fecerit et eam circum lectum posuerit. Venus et Mars eam nōn viderint. Ea nōn potuerint fugisse ē lecto. 
 
 dei vocatus sunt videnda ea. **Review (1) how to express purpose using the gerundive, and (2) agreement of the fourth principal part with the subject in the perfect passive.**
 
