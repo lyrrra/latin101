@@ -10,10 +10,10 @@ Vulcānus adamantis catenam fecit et eam circum lectum posuit.
 
 Venus et Mars eam nōn viderunt. 
 
-Ea nōn potuerunt fugisse ē lecto.
+Ei nōn poterant fugere ē lecto.
 
 dei vocati sunt ad eos videndos. 
 
-Mars pudorem sensit ob id. 
+Ob id Mars pudorem sensit. 
 
 Amare divinum est, sed errare divinum est.
