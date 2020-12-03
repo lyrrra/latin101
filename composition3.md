@@ -1,14 +1,19 @@
 **Needs revisions**
-**Check the mood of the perfect active verb forms you have used.**
+
 # composition3
- 
-Venus cum Marte clam concubuit. **Consider using imperfect?**
 
-Vulcānus ea volurit indicandus. **Review how to express necessity using the gerundive**
+Venus cum Marte clam concumbēbat.
 
+factum Vulcano indicandum erat. 
 
-Vulcānus adamantis catenam fecerit et eam circum lectum posuerit. Venus et Mars eam nōn viderint. Ea nōn potuerint fugisse ē lecto. 
+Vulcānus adamantis catenam fecit et eam circum lectum posuit.
 
-dei vocatus sunt videnda ea. **Review (1) how to express purpose using the gerundive, and (2) agreement of the fourth principal part with the subject in the perfect passive.**
+Venus et Mars eam nōn viderunt. 
 
-Mars pudorem senserit ob id. Amare divinum est, sed errare divinum est.
+Ea nōn potuerunt fugisse ē lecto.
+
+dei vocati sunt ad eos videndos. 
+
+Mars pudorem sensit ob id. 
+
+Amare divinum est, sed errare divinum est.
