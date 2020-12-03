@@ -1,9 +1,10 @@
+**Satisfactory: full credit**
 # composition2
 
 
 Prometheus a deis ignem cepit.
 
-Is ignem hominibus debit.
+Is ignem hominibus dedit.
 
 Ob id Prometheus a deis pūnītus est.
 
