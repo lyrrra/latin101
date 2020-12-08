@@ -54,4 +54,4 @@ When the Trojans saw it, they judged that the enemies had gone away; Priamus ord
 
 When the prophet Cassandra said the horse held enemies, trust was not given to her and they placed the horse in front of the temple.
 
-The Greeks went out the gate and killed the guards of the gate and conquered Troy.
+The Greeks went out and killed the guards of the gate and conquered Troy.
