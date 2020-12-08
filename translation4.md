@@ -2,7 +2,7 @@
 
 Cum *Achīvī* decem annōs Troiam capere nōn **possent**, *Epeus* equum mirae magnitūdinis ligneum **fēcit**. 
 
-In **eō collēctī** sunt *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*. 
+In eō **collēctī sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*. 
 
 et in equō **scripsērunt** “*DANAI* MINERVAE DONUM **DANT**”, castraque **transtulērunt** Tenedo. 
 
@@ -18,20 +18,19 @@ accusative plural, expression of time
 
 2. Parse possent (PNTMV) and explain its mood.
 
-3rd plural imperfect subjunctive active The subjunctive is the verbal mood of possibility, doubt, hypothetical or ideal situations, or unreal actions.
+3rd plural imperfect subjunctive active The verb is subjunctive: tells the circumstances when the action of the main clause happened.
 
 3. Explain the sentence structure of DANAI MINERVAE DONUM DANT?
 
-transitive sentence
+transitive sentence Danai: subject, Minervae: indirect object, donum: direct object, dant: verb
 
 4. What type of verb is arbitrati sunt?
 
-passive
-
+deponent (passive form with active meaning)
 
 5. What kind of grammatical construction do we have in the sentence Priamus imperavit equum in templum Minervae duci? Identify its constituent parts.
 
-perfect indicative verb + infinitive verb
+indirect discourse (perfect indicative verb + infinitive verb)
 
 6. Parse duci.
 
@@ -39,7 +38,7 @@ present infinitive passive
 
 7. What case is ei and what role is it playing in the sentence?
 
-dative singular
+dative singular, indirect object
 
 8. What is the function of the que in portārumque?
 
@@ -47,12 +46,12 @@ and
 
 When the Greeks could not seize Troy for ten years, Epeus made the wooden horse of amazing size.
 
-Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus are gathered in it.
+Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus were gathered in it.
 
-And they wrote on the horse, "The Greeks give a gift to Minerva", they moved their tents to Tenedos.
+And they wrote on the horse, "The Greeks give a gift to Minerva", and they moved their tents to Tenedos.
 
-When the Trojans saw it, the enemies were thought to go away; Priamus ordered the horse to be led in the temple of Minerva.
+When the Trojans saw it, they judged that the enemies had gone away; Priamus ordered the horse to be led in the temple of Minerva.
 
-When the prophet Cassandra said the horse held enemies, faith did not give it and they placed the horse in front of the temple.
+When the prophet Cassandra said the horse held enemies, trust was not given to her and they placed the horse in front of the temple.
 
-The Greeks went out the gate and killed the guards and conquered Troy.
+The Greeks went out the gate and killed the guards of the gate and conquered Troy.
