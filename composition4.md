@@ -1,13 +1,13 @@
 # composition4
 
-Cum Hercules mitteretur pugnare Cerberum, tricipitem canem, Lycus, fīlius Neptunus, putabat Herculem mortuum esse. 
+Cum Hercules mitteretur ad Cerberum vincendum, tricipitem canem, Lycus, fīlius Neptunus, putabat Herculem mortuum esse. 
 
-Lycus volebat capere Herculis regnum et interficere eius familiam. 
+Lycus volebat Herculis regnum capere et eius familiam interficere. 
 
-Cum Hercules audiret id, is celeriter veniit et interfecit eum.
+Cum Hercules audiret id, is celeriter venit et interfecit eum.
 
-Ob horribilem factum Hercules puniebatur a Junone.
+Ob horribile factum Hercules puniebatur a Junone.
 
-Herculis anima capiebatur a Junone et is interfecit eius familiam.
+Herculis anima a Junone capta est et is suam familiam interfecit.
 
-Postea Hercules volebat non vivere et datus est in servitium.
+Postea Hercules nolebat vivere et datus est in servitium.
