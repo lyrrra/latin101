@@ -1,6 +1,6 @@
 # composition4
 
-Cum Hercules mitteretur ad Cerberum vincendum, tricipitem canem, Lycus, fīlius Neptunus, putabat Herculem mortuum esse. 
+Cum Hercules mitteretur ad Cerberum vincendum, tricipitem canem, Lycus, fīlius Neptunī, putabat Herculem mortuum esse. 
 
 Lycus volebat Herculis regnum capere et eius familiam interficere. 
 
