@@ -1,3 +1,5 @@
+**Satisfactory:  full credit**
+
 # composition4
 
 Cum Hercules mitteretur ad Cerberum vincendum, tricipitem canem, Lycus, fīlius Neptunī, putabat Herculem mortuum esse. 
