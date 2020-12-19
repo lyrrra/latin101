@@ -1,0 +1,10 @@
+# reflection 
+
+In the first few weeks of the practicum, we read some articles about the 
+Latin language and charity. I think it is meaningful, and let us feflect on what to do this semester: why are we learning Latin, how can we employ it, and how to do the CBL work. The articles make me ponder on how language is used to show power dynamics, and lead to discussions about how to do charity rightfully. Also, the distinction of gender in the Latin language gives a new perspective on how the ancient Romans viewed gender and how we can take a modern stand in understanding gender. 
+
+Then we start thinking about how to do the CBL work. The pandemic makes the work harder, since we are not on the campus of holy cross and cannot just go the Worcester public schools and teach kids Latin in person. Therefore, we start to think about ways of making it work with online means. None of us have much teaching experience with language, especially a language as hard as Latin, so we try to find ways to engage the kids and make them somewhat interested in the material. It is kind of hard due to our lack of experience, but eventually we all proposed something seemingly workable. 
+
+We explore Latin during regular class time. We focus on class work and also have some discussions about the usage of Latin. For instance, in the scholarstrike class, we learned how Latin was thought to be a privileged language only for upper class white people in the past. As an international student, I am painfully aware of how white holy cross is and that the minorities are seldomly taken care of, and I often observe the groups of students in class. In my first year in college, I was the only non-white student in my Classics literature class; In my Montserrat class, all races were well-represented; My math class had only one Latino student and one Asian student (me). 
+
+The class materials in both the MWF class and the practicum help us engage and learn more than just the language. We analyze how language is used and the power dynamics of language from the sentence structures and the speakers / users. 
